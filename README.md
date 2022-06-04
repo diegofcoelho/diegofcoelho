@@ -29,6 +29,7 @@ I started my DS career using R, which I love the practical approach and publishe
   <img align="center" alt="MONGO" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />           
   </div>
   
+  <br>
 
 <div>
   <div align="left">
